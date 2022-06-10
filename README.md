@@ -13,12 +13,10 @@ We list its 4 primary components - 
 
 ## Throughput Predictor Accuracy
 
-RMSE of ?? was achieved using the curated dataset that is provided in this repo.
+Average RMSE of 0.4 was achieved using the curated dataset that is provided in this repo.
 
 ## Compared with an existing ABR
 
-|   | QoE% increase |
-| --- | --- |
-| Google Meet | ?? |
-| FaceTime | ?? |
-| Zoom | ?? |
+| Avg Gain in QoE (in %)  | Avg Gain in q(R) (in %)  |  Avg in Frame Jitter (in %) | Avg Gain in QP (in %) |
+| --- | --- | --- | --- |
+| 18.78  | 68.5 | \-18.97  | 9.77 |
